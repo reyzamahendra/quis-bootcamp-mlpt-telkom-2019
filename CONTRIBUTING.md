@@ -1,7 +1,7 @@
 ## Cara Mengerjakan
 
 - Download repository ini, didalamnya terdapat template project springboot.
-- Anda di perbolehkan mencari ref di internet, dari buku, atau apa pun itu.
+- Anda di perbolehkan mencari ref di internet, dari buku, atau apa pun itu. yang **tidak boleh re-upload tugas dari teman**
 - Untuk soal teori, silahkan isi saja langsung di file `README.md`
 - Untuk soal praktek, silakhan kerjakan di folder `src`
 
