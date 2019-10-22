@@ -10,12 +10,14 @@
 
 1. Buatlah database dan user dengan nama anda sendiri contoh `dimas_maryanto` di mysql.
 2. Buatlah tabel dengan nama `penduduk` pada database yang telah dibuat dengan ketentuan seperti berikut:
+    
     | Column Name   | Data type     | Primary Key | Nullable | unique |
     |---------------|---------------|-------------|----------|--------|
     | nip           | varchar(63)   | true        | false    | true   |
     | nama_lengkap  | varchar(50)   |             | false    |        |
     | tanggal_lahir | date          |             | false    |        |
     | tempat_lahir  | varchar(50)   |             |          |        |
+    
 3. Buatlah query untuk insert data ke tabel `penduduk` sebanyak minimal 5 data.
 4. Buatlah web service dengan fitur sebagai berikut:
     - untuk menampilkan list data penduduk, 
