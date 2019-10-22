@@ -8,5 +8,5 @@
 ## Cara Mengupulkan
 
 - yang dikirimkan hanya folder `src` dan file `README.md` berbentuk zip dengan nama file `nama_lengkap.zip`
-- kirim melalui email <dimas.maryanto@tabeldata.com> dengan subject `bootcamp-telkom-mlpt-2019`
+- kirim melalui email [dimas.maryanto@tabeldata.com](mailto:dimas.maryanto@tabeldata.com?subject=bootcamp-mlpt-2019) dengan subject `bootcamp-telkom-mlpt-2019`
 - Paling lambat tanggal **23 October 2019 pukul 23.59**
