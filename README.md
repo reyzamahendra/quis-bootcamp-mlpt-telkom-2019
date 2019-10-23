@@ -24,7 +24,7 @@
     - tambah data
     - update data
     - findById
-    - deleteById
+    - deleteByI
 
 # Section 3
 
